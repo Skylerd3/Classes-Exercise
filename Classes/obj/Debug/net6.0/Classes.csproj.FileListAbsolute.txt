@@ -1,0 +1,15 @@
+/Users/kiara/Desktop/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes
+/Users/kiara/Desktop/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.deps.json
+/Users/kiara/Desktop/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.runtimeconfig.json
+/Users/kiara/Desktop/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.dll
+/Users/kiara/Desktop/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.pdb
+/Users/kiara/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.AssemblyReference.cache
+/Users/kiara/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kiara/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/Users/kiara/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/Users/kiara/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
+/Users/kiara/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.dll
+/Users/kiara/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/refint/Classes.dll
+/Users/kiara/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.pdb
+/Users/kiara/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.genruntimeconfig.cache
+/Users/kiara/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/ref/Classes.dll

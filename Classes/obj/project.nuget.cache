@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yyy6swvPWyBz5CA8imGx9iQhAAQTcX+QbVj10KcgeQQI4kb9/xrEbXxz+VbPLdVy1SprT6mjnD+97FMmzz8tcQ==",
+  "success": true,
+  "projectFilePath": "/Users/kiara/Desktop/repos/Classes-Exercise/Classes/Classes.csproj",
+  "expectedPackageFiles": [
+    "/Users/kiara/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/kiara/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/kiara/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
