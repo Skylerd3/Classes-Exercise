@@ -4,12 +4,12 @@
     {
         static void Main(string[] args)
         {
-            var carOne = new Car();
-            carOne.make = "Jeep";
-            carOne.model = "Wrangler";
-            carOne.year = 2022;
+            var CarOne = new Car();
+            CarOne.make = "Jeep";
+            CarOne.model = "Wrangler";
+            CarOne.year = 2022;
 
-            Console.WriteLine($"This car is a {carOne.year} {carOne.make} {carOne.model}!");
+            Console.WriteLine($"This car is a {CarOne.year} {CarOne.make} {CarOne.model}!");
 
         }
     }
